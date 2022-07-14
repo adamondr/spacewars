@@ -1,0 +1,8 @@
+name: SpaceWars
+version: '1.0-SNAPSHOT'
+main: dev.adamo.spacewars.SpaceWars
+api-version: 1.16
+commands:
+  spacewars:
+    aliases: ["sw"]
+    description: Main command for SpaceWars
